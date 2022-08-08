@@ -24,7 +24,7 @@ The Arduino board has a USB-C connector, so you can use a USB-C cable if your la
 
 ## Lessons
 
-### 1. Setting Up Arduino on Your Laptop
+### [1. Setting Up Arduino on Your Laptop](./Setting-Up-Arduino-on-Your-Laptop)
 
 ### 2. Your First Arduino Sketch - Controlling an LED
 
