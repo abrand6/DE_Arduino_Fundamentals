@@ -28,10 +28,12 @@ The Arduino board has a USB-C connector, so you can use a USB-C cable if your la
 
 ### 2. Your First Arduino Sketch - Controlling an LED
 
-### 3. Reading Input From a Sensor
+### 3. Printing Messages from an Arduino to Your Laptop
 
-### 4. Printing Messages from an Arduino to Your Laptop
+### 4. Reading Input From a Sensor
 
-### 5. Communicating with Devices Over I2C
+### 5. Outputting to an External Device 
 
-### 6. Navigating Online Resources for Help
+### 6. Communicating with Devices Over I2C
+
+### 7. Navigating Online Resources for Help
