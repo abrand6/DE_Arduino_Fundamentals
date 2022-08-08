@@ -7,11 +7,11 @@ These lesssons aim to help you to:
 
 ## Kit Needed
 ### Laptop
-**Operating System - ** Your laptop can run Windows, Mac OS, or Linux. The primary requirement is that it can run the [Arduino IDE Application](https://www.arduino.cc/en/software).
+**Operating System -** Your laptop can run Windows, Mac OS, or Linux. The primary requirement is that it can run the [Arduino IDE Application](https://www.arduino.cc/en/software).
 
 It is possible to use a Chromebook, but you will need to use the [Arduino Web Editor](https://create.arduino.cc/editor/) and the instructions in the lessons documented below may vary slightly from what works on your machine.
 
-**USB Port - **Your laptop needs to have a USB port. You will connect your Arduino board to your laptop using a USB lead. A USB-C to USB-A lead will be provided in your kit. If your laptop does not have a USB-A port, you need to use an adaptor for your laptop.
+**USB Port -** Your laptop needs to have a USB port. You will connect your Arduino board to your laptop using a USB lead. A USB-C to USB-A lead will be provided in your kit. If your laptop does not have a USB-A port, you need to use an adaptor for your laptop.
 
 The Arduino board has a USB-C connector, so you can use a USB-C cable if your laptop has a USB-C port. **_Make sure that the lead allows for data and not only charging, or you will find yourself frustrated thinking that your board is broken._**
 
