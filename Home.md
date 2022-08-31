@@ -36,10 +36,12 @@ It is possible to use a Chromebook, but you will need to use the [Arduino Web Ed
 
 ### [3. Printing Messages from an Arduino to Your Laptop](./Printing-Messages-from-an-Arduino-to-Your-Laptop)
 
-### 4. Reading Input From a Sensor
+### [4. Reading Input From a Sensor](CPS-Fundamentals/wiki/Reading-Input-From-a-Sensor)
 
-### 5. Outputting to an External Device 
+### [5. Outputting to an External Device](Outputting-to-an-External-Device)
 
-### 6. Communicating with Devices Over I2C
+### 6. Making Decisions in Code
 
-### 7. Navigating Online Resources for Help
+### 7. Communicating with Devices Over I2C
+
+### 8. Navigating Online Resources for Help
