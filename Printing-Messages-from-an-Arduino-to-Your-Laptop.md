@@ -4,6 +4,8 @@ In the previous exercise you edited the input parameter of a function by changin
 
 You might have noticed that the sketch was divided into two big sections, one starts with the line `void setup() {` and the second starts with the line `void loop() {`. There is a block of text at the very top that is grey, this is a comment block. The Arduino completely ignores comments, they are just notes to self or a note to a potential other coder. 
 
+![Screenshot of the Blink example in the Arduino IDE with the setup and loop functions highlighted](https://github.com/IDE-GID-Cyberphysical-Systems/CPS-Fundamentals/blob/ab62e9883c76e12613a1d2aaad86565aeb8b7b01/wiki-images/blink-setup-loop.png "Setup and Loop")
+
 Each section of code starts with a `{` and ends with a `}`. The code just before the `{` is the name for that block, either `setup()` or `loop()` in this case. Each Arduino sketch has to have exactly one block of code named `setup()` and one block named `loop()`. It can't have more than one block with the same name.
 
 The code inside the `setup()` block is run only once when the Arduino first turns on or reboots.
