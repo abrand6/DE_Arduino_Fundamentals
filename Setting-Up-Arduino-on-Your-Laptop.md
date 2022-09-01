@@ -2,24 +2,21 @@ The word Arduino refers to many different parts of a technological ecosystem. It
 
 We will work with the Arduino board called the [Nano Every](https://docs.arduino.cc/hardware/nano-every). It was chosen for being small and for being relatively low cost, while containing the necessary features for completing your final projects for the module.
 
-![Pin diagram of the Nano Every. Image created by Arduino.](https://docs.arduino.cc/static/90c04d4cfb88446cafa299787bf06056/ABX00028-pinout.png "Nano Every Pin Diagram")
-
-A summary of the first tasks you need to complete are to:
-1. Install the software
-2. Install the supporting library for the Nano Every board
-3. Upload the Blink sketch to verify everything is set up correctly
-
 
 
 ## Tasks
 ### Install the software
 1. Follow the Quickstart Guide on the [Nano Every site](https://docs.arduino.cc/hardware/nano-every). Select the **Arduino IDE 2.0 Option** and complete the **Downloading and Installing the Arduino IDE 2.0** instructions.
 
+![Quickstart Guide for Arduino IDE 2.0](https://github.com/IDE-GID-Cyberphysical-Systems/CPS-Fundamentals/blob/47d227f25c36bb443701a72716459e0337877ad7/wiki-images/quickstart-guide.png "Screenshot of the Arduino Quickstart Guide highlighting selecting the Arduino IDE 2.0")
+
 2. Open the Arduino IDE on your laptop and connect your Arduino board to your computer using the USB lead.
 
-3. You should see a pop-up message at the bottom left of the window that asks if you would like to install the supporting package for the Nano board. Click on the Install this package text.
+3. Click on the Board Manager icon on the left side of the Arduino IDE window.
 
-4. The Boards Manager window will appear with the Arduino megaAVR Boards package. Click on the install button. It may take a few minutes to complete.
+![Screenshot of Board Manager icon highlighted in Arduino IDE 2.0](https://github.com/IDE-GID-Cyberphysical-Systems/CPS-Fundamentals/blob/47d227f25c36bb443701a72716459e0337877ad7/wiki-images/megaavr-install.png "Screenshot of Board Manager")
+
+4. Search for the Arduino megaAVR Boards package. Click on the install button (you need to hover your mouse over the package description for the button to appear). It may take a few minutes to complete.
 
 5. Quit and restart the Arduino IDE.
 
