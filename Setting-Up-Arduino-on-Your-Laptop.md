@@ -40,7 +40,7 @@ Make sure your Arduino board is still connected. You now need to select the type
 
 10. Return to the Arduino Quickstart documentation and read through the **How to Upload a Sketch with Arduino 2.0** You will need to click next after the Arduino IDE installation steps.
 
-11. Upload the Blink sketch to your board. You should see the LED blink and the Arduino IDE say that the sketch was uploaded successfully.
+11. Upload the Blink sketch to your board. You should see the orange LED on the Arduino board blink and the Arduino IDE say that the sketch was uploaded successfully.
 
 ## Skills Audit
 Can you:
