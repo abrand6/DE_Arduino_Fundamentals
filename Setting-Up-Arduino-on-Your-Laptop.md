@@ -8,7 +8,7 @@ We will work with the Arduino board called the [Nano Every](https://docs.arduino
 ### Install the software
 1. Follow the Quickstart Guide on the [Nano Every site](https://docs.arduino.cc/hardware/nano-every). Select the **Arduino IDE 2.0 Option** and complete the **Downloading and Installing the Arduino IDE 2.0** instructions.
 
-![Quickstart Guide for Arduino IDE 2.0](https://github.com/IDE-GID-Cyberphysical-Systems/CPS-Fundamentals/blob/47d227f25c36bb443701a72716459e0337877ad7/wiki-images/quickstart-guide.png "Screenshot of the Arduino Quickstart Guide highlighting selecting the Arduino IDE 2.0")
+![Screenshot of the Arduino Quickstart Guide highlighting selecting the Arduino IDE 2.0](https://github.com/IDE-GID-Cyberphysical-Systems/CPS-Fundamentals/blob/47d227f25c36bb443701a72716459e0337877ad7/wiki-images/quickstart-guide.png "Quickstart Guide for Arduino IDE 2.0")
 
 2. Open the Arduino IDE on your laptop and connect your Arduino board to your computer using the USB lead.
 
@@ -24,17 +24,23 @@ We will work with the Arduino board called the [Nano Every](https://docs.arduino
 ### Uploading your first sketch
 Make sure your Arduino board is still connected. You now need to select the type of board you are working with along with which port it is connected to.
 
-6. Open the example sketch `Blink` by going to **File > Examples... > 01 Basics > Blink**
+6. Open the example sketch `Blink` by going to **File > Examples... > 01.Basics > Blink**
 
 7. Select the board you are using by going to **Tools > Board > Arduino megaAVR Boards** and selecting **Arduino Nano Every**
 
+![Screenshot of menu paths to select the board](https://github.com/IDE-GID-Cyberphysical-Systems/CPS-Fundamentals/blob/94b5c62aa9fe4f25c4d2aafeb7a6e96d6c7b910a/wiki-images/select-board.png "Select board")
+
 8. Select the port the board is connected to - it is essential that the board is connected with the USB lead to your laptop. Go to **Tools > Port ** and select the option where the Nano Every is listed. The exact name of the port will vary between laptops.
+
+![Screenshot of menu paths to select the port](https://github.com/IDE-GID-Cyberphysical-Systems/CPS-Fundamentals/blob/94b5c62aa9fe4f25c4d2aafeb7a6e96d6c7b910a/wiki-images/select-port.png "Select port")
 
 9. You should now see the current selected board and port at the bottom of your Arduino IDE window. Remember your port name will probably not be the same as in the below screenshot.
 
-10. Return to the Arduino Quickstart documentation and read through the **How to Upload a Sketch with Arduino 2.0**
+![Screenshot of bottom right of Arduino IDE showing current board and port selection](https://github.com/IDE-GID-Cyberphysical-Systems/CPS-Fundamentals/blob/39adeaac86356f6820b4e9573c837a9e287fec0f/wiki-images/current-board-port.png "Current board and port")
 
-11. Upload the Blink sketch to your board.
+10. Return to the Arduino Quickstart documentation and read through the **How to Upload a Sketch with Arduino 2.0** You will need to click next after the Arduino IDE installation steps.
+
+11. Upload the Blink sketch to your board. You should see the LED blink and the Arduino IDE say that the sketch was uploaded successfully.
 
 ## Skills Audit
 Can you:
