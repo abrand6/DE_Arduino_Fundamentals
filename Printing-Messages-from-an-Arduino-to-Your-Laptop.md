@@ -20,11 +20,12 @@ In the below exercises you will explore how `setup()` and `loop()` by printing m
 ![Screenshot of new sketch window in Arduino IDE](https://github.com/IDE-GID-Cyberphysical-Systems/CPS-Fundamentals/blob/09c629da1c5092118af3365deb906279f2cfc9d6/wiki-images/new-sketch.png "New sketch")
 
 2. Inside of `setup()` type in the below code. 
-
-  // start Serial communication at a rate of 9600 bps
-  Serial.begin(9600); 
-  // send a message
-  Serial.println("Hello from setup");
+```
+// start Serial communication at a rate of 9600 bps
+Serial.begin(9600); 
+// send a message
+Serial.println("Hello from setup");
+```
 
 The lines starting with `//` are comments. You don't have to include them, but you may find them useful for taking notes. The line `Serial.begin(9600);` tells the Arduino board that it should get ready to send and listen to messages that will be travelling at a rate of 9600 bps. The 9600 isn't that important to understand right now. In general, if you don't have a reason to change it, start Serial communication at 9600 bps.
 
@@ -39,15 +40,24 @@ The lines starting with `//` are comments. You don't have to include them, but y
 6. Change the message to print different text of your choosing. Remember to upload the sketch after you make changes and then to reopen the Serial Monitor after the uploading has completed. You should see your new message printed now.
 
 7. Now add the below line of code to inside of `loop()`. You shouldn't put `Serial.begin()` anywhere but inside of `setup()`, but once you have done that, you can print messages from inside `loop()`.
-    Serial.println("Hello from loop");
+
+```
+Serial.println("Hello from loop");
+```
 
 8. Upload the sketch and open the Serial Monitor. Note how messages are being continuously sent. This helps illustrate the difference between `setup()` which runs only once and `loop()` which is repeated forever.
 
 9. Now make a final change to the code. Change the line of code inside of `loop()` to the below.
-
-    Serial.print("Hello from loop");
+ 
+```
+Serial.print("Hello from loop");
+```
 
 After uploading, you should now see in the Serial Monitor that the messages run into each other, they aren't on separate lines. This is the difference between `print()` and `println()`. The command with `ln` in the name will end the message with a new line, like the enter key has been used. The command without the `ln` doesn't include this. This can be useful when putting together more complex messages, as we will do in later exercises.
+
+Your final sketch will look similar to the below, though your message text may vary if you customised it.
+
+![Complete sketch that prints a message once in the setup and then continously without a line break in the loop](https://github.com/IDE-GID-Cyberphysical-Systems/CPS-Fundamentals/blob/63cc3dd68b74d90a0425b27fb1b1290d8c118583/wiki-images/printing.png "Serial Monitor printing")
 
 ## Skills Audit
 Can you:
