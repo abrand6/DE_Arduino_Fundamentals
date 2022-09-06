@@ -19,7 +19,7 @@ The final note is that the Arduino Nano Every has an awkward design feature - th
 
 4. Remove the potentiometer from your breadboard to start again with an empty breadboard.
 
-5. Follow the steps in [this tutorial on reading the input from a switch or button](https://docs.arduino.cc/built-in-examples/digital/InputPullupSerial). You will be controlling the LED on the Arduino board. Don't worry too much about the part of the code using `if` and `else`, we will look at in more detail in a later lesson.
+5. Follow the steps in [this tutorial on reading the input from a switch or button](https://docs.arduino.cc/built-in-examples/digital/InputPullupSerial). You will be controlling the LED on the Arduino board. Don't worry too much about the part of the code using `if` and `else`, we will look at that in more detail in a later lesson.
 
 8. Modify the code and the circuit in the step above so that you are reading from the switch from pin 4 instead of pin 2.
 
