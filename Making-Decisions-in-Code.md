@@ -9,8 +9,17 @@ The pin diagram is provided again here for your convenience.
 
 
 ## Tasks
-1.
+1. Go through the [If Statement example in the Arduino documentation](https://docs.arduino.cc/built-in-examples/control-structures/ifStatementConditional).
+
+2. Set up an external LED on pin 2 and change the code so that you control that LED instead of the built-in LED.
+
+3. Add a second LED on pin 3. Change and add code to the sketch so that only one LED is turned on when the potentiometer is above the threshold and then only the other LED is turned on when below the threshold.
+
+4. Add a third LED on pin 4. Change the code once more, this time setting a second threshold at a different value. Have only one LED turn on at a time depending on if the potentiometer is (1) below both thresholds, (2) between the two thresholds, or (3) above both thresholds. You might find [the documentation on using `&&`](https://www.arduino.cc/reference/en/language/structure/boolean-operators/logicaland/) useful.
+
+5. Moving away from `if` statements and onto `for` loops, go through the steps in the [Arduino looping tutorial](https://docs.arduino.cc/built-in-examples/control-structures/ForLoopIteration). You will need to make a few changes though as you have only 3 LEDs. You can remove the potentiometer from your circuit, but keep the LEDS on pins 2, 3, and 4. You then need to change the values in the `for` loops to reflect that you are using 3 LEDS, not 6.
 
 ## Skills Audit
 Can you:
-- [ ] 
+- [ ] Use an `if` statement to test if something is true or false
+- [ ] Use a collection of `if` statements to make selection
