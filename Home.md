@@ -40,7 +40,7 @@ It is possible to use a Chromebook, but you will need to use the [Arduino Web Ed
 
 ### [5. Outputting to an External Device](./Outputting-to-an-External-Device)
 
-### 6. Making Decisions in Code
+### [6. Making Decisions in Code](./Making-Decisions-in-Code)
 
 ### 7. Communicating with Devices Over I2C
 
