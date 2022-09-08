@@ -17,7 +17,15 @@ The pin diagram is provided again here for your convenience.
 
 4. Add a third LED on pin 4. Change the code once more, this time setting a second threshold at a different value. Have only one LED turn on at a time depending on if the potentiometer is (1) below both thresholds, (2) between the two thresholds, or (3) above both thresholds. You might find [the documentation on using `&&`](https://www.arduino.cc/reference/en/language/structure/boolean-operators/logicaland/) useful.
 
-5. Moving away from `if` statements and onto `for` loops, go through the steps in the [Arduino looping tutorial](https://docs.arduino.cc/built-in-examples/control-structures/ForLoopIteration). You will need to make a few changes though as you have only 3 LEDs. You can remove the potentiometer from your circuit, but keep the LEDS on pins 2, 3, and 4. You then need to change the values in the `for` loops to reflect that you are using 3 LEDS, not 6.
+5. Moving away from `if` statements and onto `for` loops, go through the steps in the [Arduino looping tutorial](https://docs.arduino.cc/built-in-examples/control-structures/ForLoopIteration). You will need to make a few changes though as you have only 3 LEDs. You can remove the potentiometer from your circuit, but keep the LEDS on pins 2, 3, and 4. You then need to change the values in the `for` loops to reflect that you are using 3 LEDS, not 6. In lines 33 and 44 of the sketch you need to change the value where the looping stops to `thisPin < 5`. and in line 60 have the looping start at 4.
+
+```
+# in lines 33 and 44 make the following change
+for (int thisPin = 2; thisPin < 5; thisPin++) {
+
+# in line 60 make the following change
+for (int thisPin = 4; thisPin >= 2; thisPin--) {
+```
 
 ## Skills Audit
 Can you:
