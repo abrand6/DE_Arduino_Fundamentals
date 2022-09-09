@@ -15,6 +15,8 @@ You will be following a slightly different set of steps to the [Grove LED Bar tu
 
 1. You first need to add the library for the Grove LED Bar to your Arduino IDE. Click on the library icon on the left of the Arduino IDE and then search for **Grove LED Bar**.
 
+![Screenshot of the Arduino IDE library manager with the results for the search Grove LED Bar.](https://github.com/IDE-GID-Cyberphysical-Systems/CPS-Fundamentals/blob/1ee722f903065a416b250a1c6eeee9cf6a43ef9b/wiki-images/grove-library.png "Grove LED Bar in the Arduino library manager")
+
 2. Click **Install** to install the library.
 
 
