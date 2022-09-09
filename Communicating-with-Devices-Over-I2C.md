@@ -14,5 +14,5 @@ https://wiki.seeedstudio.com/Grove-LED_Bar/
 
 ## Skills Audit
 Can you:
-- [ ] Install an Arduino library to support communicating over I2C
+- [ ] Be able to install an Arduino library 
 - [ ] Communicate with an external device using I2C
