@@ -19,6 +19,33 @@ You will be following a slightly different set of steps to the [Grove LED Bar tu
 
 2. Click **Install** to install the library.
 
+3. You now need to connect your LED Bar to your Arduino board. This is easy to do on the LED Bar, you will use the white 4-pin Grove connector on the board. Use the Grove to 4 pin break-out cable included in your kit. It has the Grove socket connector on one side and 4 individual pins on the other side. Plug the Grove connector side into your LED Bar.
+
+![Photo of the Grove to 4 pin cable](https://user-images.githubusercontent.com/394553/189597848-63a26386-ef9f-4c57-8bad-6dae1dc1b0a5.png "Grove to 4 pin cable")
+
+
+4. On the other side you need to connect the 4 pins to your Arduino board as follows:
+    * Red is connected to 5V on the Arduino board
+    * Black is connected to ground on the Arduino board (either one, doesn't matter which)
+    * Yellow is connected to SCL (clock), which is pin A5 on the Arduino Nano Every
+    * White is connected to SDA (data), which is pin A4 on the Arduino Nano Every
+
+5. If you now go to **File >> Examples...** in the Arduino IDE you should see the **Grove LED Bar** listed under the bottom section of the menu labelled **Examples from Custom Libraries**. Open the **Level** example from the library you just installed.
+
+6. There is one line of code we need to change - the line of code that lists which pins are SCL and SDA. For the Arduino Nano Every these are pins A5 and A4. So the line just before `setup()` which sets up the the LED Bar should be changed to:
+
+```
+Grove_LED_Bar bar(A5, A4, 0, LED_BAR_10); // Clock pin, Data pin, Orientation
+```
+
+7. Upload the sketch and you should see the lights move in an animation on the LED Bar. If it doesn't light up correctly, double check your connections. The most likely problem is that you didn't quite wire up the breadboard correctly.
+
+8. Edit the code so that it starts at the maximum level and then decreases, the opposite of what it currently does.
+
+9. As a final task, add a button to the breadboard and your Arduino board circuit. Have the lights of the LED Bar turn on only when the button is pressed.
+
+
+
 
 ## Skills Audit
 Can you:
