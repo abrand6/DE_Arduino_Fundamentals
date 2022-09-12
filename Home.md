@@ -44,4 +44,4 @@ It is possible to use a Chromebook, but you will need to use the [Arduino Web Ed
 
 ### [7. Communicating with Devices Over I2C](./Communicating-with-Devices-Over-I2C)
 
-### [8. Navigating Resources for Help](./Navigating-Resources-for-Help)
+### [Navigating Resources for Help](./Navigating-Resources-for-Help)
