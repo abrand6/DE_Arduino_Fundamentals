@@ -42,6 +42,6 @@ It is possible to use a Chromebook, but you will need to use the [Arduino Web Ed
 
 ### [6. Making Decisions in Code](./Making-Decisions-in-Code)
 
-### 7. Communicating with Devices Over I2C
+### [7. Communicating with Devices Over I2C](./Communicating-with-Devices-Over-I2C)
 
-### 8. Navigating Resources for Help
+### [8. Navigating Resources for Help](./Navigating-Resources-for-Help)
