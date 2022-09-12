@@ -27,7 +27,26 @@ There are many more books available than the ones listed below, have a search th
 
 
 ## Online forums
+Online forums are great place to get specific help. Always search for whether someone else has already asked about the same problem as you before you post a repeated question. 
+
+[Arduino Forums](https://forum.arduino.cc/)
+
+[Arduino Stack Exchange](https://arduino.stackexchange.com/)
+
+[Adafruit Forums](https://forums.adafruit.com/)
+
+[Stack Overflow](https://stackoverflow.com/questions/tagged/arduino)
+
 
 ### How to ask for help
+
+You are much more likely to get a useful response to a request for help if you clearly explain your problem, including what you have done to try and solve it. Just saying your code doesn't work isn't likely to eliciate help. Include your code in your forum post, perhaps with a picture of your circuit and include all technical details like exactly what board you are using and, if relevant, any libraries.
+
+You can read some tips on posting good questions from [Free Code Camp](https://www.freecodecamp.org/news/how-to-ask-a-question-on-a-forum/) and [Towards Data Science](https://towardsdatascience.com/how-to-ask-for-help-5c24b70c9314).
+
+Remember, for most forums you are asking for free advice from others voluteering their time and experience to help you! Make it as easy as you can for them to assist you.
+
+
+
 
 ## Suppliers - where to buy things?
