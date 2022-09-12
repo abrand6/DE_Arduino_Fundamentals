@@ -2,6 +2,8 @@ Now that you are familiar with the basics of working with the Arduino platform, 
 
 ## Online short courses and tutorials
 
+[YouTube Arduino tutorial by Programming Knowledge](https://www.youtube.com/playlist?list=PLS1QulWo1RIYUOtZVqcBMELUl9H2und-F)
+
 ## eBooks from the Imperial library 
 With both eBooks and paper format books, be aware that information can be out of date more easily than in online resources. In particular, the Arduino IDE has released its current version very recently, so most print resources are not going to refer to the current IDE. 
 
@@ -27,3 +29,5 @@ There are many more books available than the ones listed below, have a search th
 ## Online forums
 
 ### How to ask for help
+
+## Suppliers - where to buy things?
