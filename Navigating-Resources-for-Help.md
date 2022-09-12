@@ -2,7 +2,13 @@ Now that you are familiar with the basics of working with the Arduino platform, 
 
 ## Online short courses and tutorials
 
+[LinkedIn Learning](https://www.linkedin.com/learning) - as an Imperial student you have access to all the content on LinkedIn Learning, and there is a long list of Arduino courses. You need to have a LinkedIn account and have it associated with your Imperial email address.
+
+[Adafruit Learning System](https://learn.adafruit.com/guides/beginner) - Adafruit is a New York City-based company that makes open source hardware and many excellent learning resources to support it. They have a variety of tutorials on many topics that may be useful for your project.
+
 [YouTube Arduino tutorial by Programming Knowledge](https://www.youtube.com/playlist?list=PLS1QulWo1RIYUOtZVqcBMELUl9H2und-F)
+
+[YouTube Arduino tutorial by Massimi Banzi, one of the Arduino founders](https://www.youtube.com/playlist?list=PLEFD8868A15D860D7)
 
 ## eBooks from the Imperial library 
 With both eBooks and paper format books, be aware that information can be out of date more easily than in online resources. In particular, the Arduino IDE has released its current version very recently, so most print resources are not going to refer to the current IDE. 
@@ -47,6 +53,27 @@ You can read some tips on posting good questions from [Free Code Camp](https://w
 Remember, for most forums you are asking for free advice from others voluteering their time and experience to help you! Make it as easy as you can for them to assist you.
 
 
-
-
 ## Suppliers - where to buy things?
+Within the making community there are two primary manufacturers dominating the market - [Adafruit](https://www.adafruit.com/) and [Sparkfun](https://www.sparkfun.com/). They make and distribute many products which almost all come with very clear documentation.
+
+It's recommended that you first try to find a local distributor in the UK before something from abroad. Brexit has made import times and costs worse and less predictable. You can look at the distributor lists for [Adafruit](https://www.adafruit.com/distributors) and [Sparkfun](https://www.sparkfun.com/distributors).
+
+Some other manufacturers in the UK:
+
+[Cool Components](https://coolcomponents.co.uk/)
+
+[Kitronik](https://kitronik.co.uk/)
+
+[Mind Sets ](https://mindsetsonline.co.uk/shop/)
+
+[Pimoroni](https://shop.pimoroni.com/)
+
+[SK Pang](https://www.skpang.co.uk/)
+
+Very large suppliers can be the best place to find the lowest price on an item, but they have catalogues that can be harder to nagivate. A few in the UK are:
+
+[Farnell](https://uk.farnell.com/)
+
+[Rapid](https://www.rapidonline.com)
+
+[RS](https://uk.rs-online.com/web/)
