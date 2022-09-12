@@ -51,3 +51,4 @@ Grove_LED_Bar bar(A5, A4, 0, LED_BAR_10); // Clock pin, Data pin, Orientation
 Can you:
 - [ ] Be able to install an Arduino library 
 - [ ] Communicate with an external device using I2C
+- [ ] Extend an example sketch by adding functionality
