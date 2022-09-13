@@ -7,7 +7,7 @@ Once again the pin diagram is provided here for easy reference.
 ## Tasks
 1. Return to the [blink sketch](https://docs.arduino.cc/built-in-examples/basics/Blink), but this time follow the steps for adding an LED via the breadboard.
 
-2. Change the pin number in the code and in the circuit so that you control the LED on pin 12.
+2. Change the pin number in the code and in the circuit so that you control the LED on pin 10.
 
 3. Go the [Fade tutorial](https://docs.arduino.cc/built-in-examples/basics/Fade) and follow the steps to not just turn your LED on and off, but to control the brightness. We will go through some of the more advanced aspects of the code in a future lesson. For now, just be sure to understand the function `analogWrite()`. You can read more about [Pulse Width Modulation in the Arduino documentation](https://docs.arduino.cc/learn/microcontrollers/analog-output).
 
