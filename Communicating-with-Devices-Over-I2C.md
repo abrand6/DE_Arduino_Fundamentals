@@ -27,15 +27,15 @@ You will be following a slightly different set of steps to the [Grove LED Bar tu
 4. On the other side you need to connect the 4 pins to your Arduino board as follows:
     * Red is connected to 5V on the Arduino board
     * Black is connected to ground on the Arduino board (either one, doesn't matter which)
-    * Yellow is connected to SCL (clock), which is pin A5 on the Arduino Nano Every
-    * White is connected to SDA (data), which is pin A4 on the Arduino Nano Every
+    * White is connected to SCL (clock), which is pin A5 on the Arduino Nano Every
+    * Yellow is connected to SDA (data), which is pin A4 on the Arduino Nano Every
 
 5. If you now go to **File >> Examples...** in the Arduino IDE you should see the **Grove LED Bar** listed under the bottom section of the menu labelled **Examples from Custom Libraries**. Open the **Level** example from the library you just installed.
 
 6. There is one line of code we need to change - the line of code that lists which pins are SCL and SDA. For the Arduino Nano Every these are pins A5 and A4. So the line just before `setup()` which sets up the the LED Bar should be changed to:
 
 ```
-Grove_LED_Bar bar(A5, A4, 0, LED_BAR_10); // Clock pin, Data pin, Orientation
+Grove_LED_Bar bar(A5, A4, 0); // Clock pin, Data pin, Orientation
 ```
 
 7. Upload the sketch and you should see the lights move in an animation on the LED Bar. If it doesn't light up correctly, double check your connections. The most likely problem is that you didn't quite wire up the breadboard correctly.
