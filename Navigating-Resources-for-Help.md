@@ -31,7 +31,7 @@ There are many more books available than the ones listed below, have a search th
 
 [Adventures in Arduino (2015)](https://library-search.imperial.ac.uk/permalink/44IMP_INST/mek6kh/alma991000616209901591) - book written by Becky as part of a series for school pupils, focuses on paper prototyping
 
-For more theory about electronics - [Practical Electronics for Inventors (2013)(https://library-search.imperial.ac.uk/permalink/44IMP_INST/mek6kh/alma991000618861501591)
+For more theory about electronics - [Practical Electronics for Inventors (2013)](https://library-search.imperial.ac.uk/permalink/44IMP_INST/mek6kh/alma991000618861501591)
 
 ## Online forums
 Online forums are great place to get specific help. Always search for whether someone else has already asked about the same problem as you before you post a repeated question. 
