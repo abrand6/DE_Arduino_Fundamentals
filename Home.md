@@ -30,18 +30,18 @@ It is possible to use a Chromebook, but you will need to use the [Arduino Web Ed
 
 ## Lessons
 
-### [1. Setting Up Arduino on Your Laptop](./Setting-Up-Arduino-on-Your-Laptop)
+### [1. Setting Up Arduino on Your Laptop](https://github.com/IDE-GID-Cyberphysical-Systems/CPS-Fundamentals/wiki/Setting-Up-Arduino-on-Your-Laptop)
 
-### [2. Your First Arduino Sketch - Controlling an LED](./Controlling-an-LED)
+### [2. Your First Arduino Sketch - Controlling an LED](https://github.com/IDE-GID-Cyberphysical-Systems/CPS-Fundamentals/wiki/Controlling-an-LED)
 
-### [3. Printing Messages from an Arduino to Your Laptop](./Printing-Messages-from-an-Arduino-to-Your-Laptop)
+### [3. Printing Messages from an Arduino to Your Laptop](https://github.com/IDE-GID-Cyberphysical-Systems/CPS-Fundamentals/wiki/Printing-Messages-from-an-Arduino-to-Your-Laptop)
 
-### [4. Reading Input From a Sensor](./Reading-Input-From-a-Sensor)
+### [4. Reading Input From a Sensor](https://github.com/IDE-GID-Cyberphysical-Systems/CPS-Fundamentals/wiki/Reading-Input-From-a-Sensor)
 
-### [5. Outputting to an External Device](./Outputting-to-an-External-Device)
+### [5. Outputting to an External Device](https://github.com/IDE-GID-Cyberphysical-Systems/CPS-Fundamentals/wiki/Outputting-to-an-External-Device)
 
-### [6. Making Decisions in Code](./Making-Decisions-in-Code)
+### [6. Making Decisions in Code](https://github.com/IDE-GID-Cyberphysical-Systems/CPS-Fundamentals/wiki/Making-Decisions-in-Code)
 
-### [7. Communicating with Devices Over I2C](./Communicating-with-Devices-Over-I2C)
+### [7. Communicating with Devices Over I2C](https://github.com/IDE-GID-Cyberphysical-Systems/CPS-Fundamentals/wiki/Communicating-with-Devices-Over-I2C)
 
-### [Navigating Resources for Help](./Navigating-Resources-for-Help)
+### [Navigating Resources for Help](https://github.com/IDE-GID-Cyberphysical-Systems/CPS-Fundamentals/wiki/Navigating-Resources-for-Help)
