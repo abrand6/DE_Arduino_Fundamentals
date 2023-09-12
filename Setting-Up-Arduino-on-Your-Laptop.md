@@ -30,7 +30,7 @@ Make sure your Arduino board is still connected. You now need to select the type
 
 ![Screenshot of menu paths to select the board](https://github.com/IDE-GID-Cyberphysical-Systems/CPS-Fundamentals/blob/94b5c62aa9fe4f25c4d2aafeb7a6e96d6c7b910a/wiki-images/select-board.png "Select board")
 
-8. Select the port the board is connected to - it is essential that the board is connected with the USB lead to your laptop. Go to **Tools > Port ** and select the option where the Nano Every is listed. The exact name of the port will vary between laptops.
+8. Select the port the board is connected to - it is essential that the board is connected with the USB lead to your laptop. Go to **Tools > Port** and select the option where the Nano Every is listed. The exact name of the port will vary between laptops.
 
 ![Screenshot of menu paths to select the port](https://github.com/IDE-GID-Cyberphysical-Systems/CPS-Fundamentals/blob/94b5c62aa9fe4f25c4d2aafeb7a6e96d6c7b910a/wiki-images/select-port.png "Select port")
 
