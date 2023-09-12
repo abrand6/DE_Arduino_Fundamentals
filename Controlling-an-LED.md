@@ -9,4 +9,5 @@ We will start by looking at a simple sketch or program for the Arduino. This is 
 
 ## Skills Audit
 Can you:
+- [ ] Edit and re-upload a sketch
 - [ ] Change the timing of the blinking of the LED
