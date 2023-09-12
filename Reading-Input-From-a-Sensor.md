@@ -1,7 +1,7 @@
 You have so far controlled the LED on the Arduino board and sent messages to be displayed on your laptop. Next you will take input from the 
 physical world and use it to output a message over Serial and to control the LED on your Arduino board.
 
-You will use an object called a breadboard to connect your circuits to your Arduino board. A breadboard makes it easy to build a temporary circuit quickly, though it may take a little time to get used to how to make connections. It may not feel very intuitive to you at first.
+You will use an object called a breadboard to connect your circuits to your Arduino board. A breadboard makes it easy to build a temporary circuit quickly, though it may take a little time to get used to how to make connections. It may not feel very intuitive at first.
 
 The final note is that the Arduino Nano Every has an awkward design feature - the pin labels are all on the underside of the board. That means when you put it in a breadboard, you can't read the labels. We've provided a pin diagam here to help you out.
 
