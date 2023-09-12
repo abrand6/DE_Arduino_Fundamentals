@@ -21,7 +21,7 @@ You will be following a slightly different set of steps to the [Grove Ultrasonic
 
 ![Screenshot of the menu to add a zip file of a library.](https://github.com/IDE-GID-Cyberphysical-Systems/CPS-Fundamentals/blob/9dcc92cc03fe6c40c9323fba77e3fc80ee9a5ac1/wiki-images/add-zip-library.png)
 
-3. You now need to connect your ultrasonic sensor to your Arduino board using the white 4-pin Grove connector on the board. Use the Grove to 4 pin break-out cable included in your kit. It has the Grove socket connector on one side and 4 individual pins on the other side. Plug the Grove connector side into your sensor.
+3. You now need to connect your ultrasonic sensor to your Arduino board using the white 4-pin Grove connector on the board. **Be sure that your Arduino is not connected to power, do not connect your ultrasonic sensor to a powered Arduino board or you might damage it!** Use the Grove to 4 pin break-out cable included in your kit. It has the Grove socket connector on one side and 4 individual pins on the other side. Plug the Grove connector side into your sensor.
 
 ![Photo of the Grove to 4 pin cable](https://user-images.githubusercontent.com/394553/189597848-63a26386-ef9f-4c57-8bad-6dae1dc1b0a5.png "Grove to 4 pin cable")
 
