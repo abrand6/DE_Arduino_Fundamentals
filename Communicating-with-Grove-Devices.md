@@ -30,7 +30,7 @@ You will be following a slightly different set of steps to the [Grove Ultrasonic
     * Red is connected to 5V on the Arduino board
     * Black is connected to ground on the Arduino board (either one, doesn't matter which)
     * White is not connected 
-    * Yellow is connected to D7, which is pin A4 on the Arduino Nano Every
+    * Yellow is connected to D7 on the Arduino Nano Every
 
 5. If you now go to **File >> Examples...** in the Arduino IDE you should see the **Grove Ultrasonic Ranger** listed under the bottom section of the menu labelled **Examples from Custom Libraries**. Open the **UltrasonicDisplayonTerm** example from the library you just installed.
 
