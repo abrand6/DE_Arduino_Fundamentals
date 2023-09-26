@@ -24,7 +24,7 @@ It is possible to use a Chromebook, but you will need to use the [Arduino Web Ed
 * LEDs
 * 220 Ohm resistors
 * [Grove breakout cable](https://wiki.seeedstudio.com/Grove_System/#grove-to-4-pin-femalemale-jumper)
-* [Grove LED Bar](https://wiki.seeedstudio.com/Grove-LED_Bar/)
+* [Grove Ultrasonic Ranger](https://wiki.seeedstudio.com/Grove-Ultrasonic_Ranger/)
 
 
 
