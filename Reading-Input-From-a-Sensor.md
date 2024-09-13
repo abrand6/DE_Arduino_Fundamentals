@@ -11,7 +11,7 @@ The final note is that the Arduino Nano Every has an awkward design feature - th
 
 ## Tasks
 
-1. Read through [this guide to get an overview of how to use a breadboard](https://www.seeedstudio.com/blog/2020/01/06/how-to-use-a-breadboard-wiring-circuit-and-arduino-interfacing/).
+1. Read through [this guide to get an overview of how to use a breadboard](https://learn.sparkfun.com/tutorials/how-to-use-a-breadboard/all).
 
 2. Follow the steps in [this tutorial on reading the input from a potentiometer](https://docs.arduino.cc/built-in-examples/basics/AnalogReadSerial) using the one supplied in your kit. You are using a different Arduino board, so use the pin diagram above to find the correct pins for the circuit.
 
