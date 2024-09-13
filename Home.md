@@ -44,6 +44,5 @@ It is possible to use a Chromebook, but you will need to use the [Arduino Web Ed
 
 ### [7. Controlling a Servo with a Built-In Library](https://github.com/IDE-GID-Cyberphysical-Systems/CPS-Fundamentals/wiki/Controlling-a-Servo-with-a-Built%E2%80%90In-Library)
 
-### 8. Controlling LEDs with a Third Party Library
 
 ### [Navigating Resources for Help](https://github.com/IDE-GID-Cyberphysical-Systems/CPS-Fundamentals/wiki/Navigating-Resources-for-Help)
