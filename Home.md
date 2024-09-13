@@ -25,6 +25,7 @@ It is possible to use a Chromebook, but you will need to use the [Arduino Web Ed
 * 220 Ohm resistors
 * Servo motor and capacitor
 * [Kitronik LED Zip Stick](https://kitronik.co.uk/products/35129-zip-strip) and 330 Ohm resistor
+* 3 x AA batteries and battery pack
 
 
 
