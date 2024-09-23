@@ -8,29 +8,32 @@ In this lesson you will install the [Adafruit NeoPixel Libraries](https://learn.
 
 
 
-https://learn.adafruit.com/adafruit-neopixel-uberguide/the-magic-of-neopixels
-
-[Follow this instructions to install the Adafruit NeoPixel Libraries](https://learn.adafruit.com/adafruit-neopixel-uberguide/arduino-library-installation)
-
-
 ## Tasks
-1. Return to the [blink sketch](https://docs.arduino.cc/built-in-examples/basics/Blink), but this time follow the below steps for adding an LED via the breadboard.
+1. Read through the [basics of working with NeoPixels](https://learn.adafruit.com/adafruit-neopixel-uberguide/basic-connections) and [best practices](https://learn.adafruit.com/adafruit-neopixel-uberguide/best-practices) to understand how best to avoid burning them out.
 
-2. Change the pin number in the code and in the circuit so that you control the LED on pin 10.
+2. [Follow this instructions to install the Adafruit NeoPixel Libraries](https://learn.adafruit.com/adafruit-neopixel-uberguide/arduino-library-installation)
 
-3. Go the [Fade tutorial](https://docs.arduino.cc/built-in-examples/basics/Fade) and follow the steps to not just turn your LED on and off, but to control the brightness. We will go through some of the more advanced aspects of the code in a future lesson. For now, just be sure to understand the function `analogWrite()`. You can read more about [Pulse Width Modulation in the Arduino documentation](https://docs.arduino.cc/learn/microcontrollers/analog-output).
+3. You are now ready to connect your LEDs to your Arduino:
+   * Disconnect everything from power and turn the battery pack off.
+   * Connect the DIN pin on the LED stick to Pin 6 on the Arduino Nano Every (see the pin diagram below).
+   * Connect a GND pin on the LED stick to a GND pin on the Arduino (in both cases it doesn't matter which one).
+   * Connect the black (-) wire from the battery pack to the GND pin on the LED stick.
+   * Connect the red (+) wire from the battery pack to the 5VDC pin on the LED stick.
 
-4. Return to the [sketch that had a button control the LED](https://docs.arduino.cc/built-in-examples/digital/InputPullupSerial). Modify your circuit so that you are controlling an external LED instead of the built-in LED.
+4. Open up the example `simple` from the Examples of the NeoPixel Library (look under the File menu in the Arduino IDE).
 
-5. Add a second LED to the breadboard and connect it to pin 6. Modify the code so that when the button pressed one LED is on and the second is off, and when the button is released the LED that was off turns on and the LED that was on turns off.
+5. In the sketch, change line 14 to `#define NUMPIXELS 5`. This is to correspond the number of LEDs on the Zip Stick.
+
+6. Upload the sketch to the Arduino board and turn on the battery pack. You should see the LEDs turn on sequentially in green.
 
 
 ## Skills Audit
 Can you:
-- [ ] Build a circuit with an LED on a breadboard
-- [ ] Control the LED with code
-- [ ] Change the pin controlling the LED
-- [ ] Build multiple LED circuits that can be controlled independently of each other
+- [ ] Get the simple LED sketch to run.
+- [ ] Change the LED colour to bright pink.
+- [ ] Slow down how quickly the LEDs turn on.
+- [ ] Have each LED turn on as a different colour.
+
 
 ## Pin Diagram
 Once again the pin diagram is provided here for easy reference.
