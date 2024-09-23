@@ -1,8 +1,10 @@
 Whilst you can certainly build a wide variety of projects using the built-in resources provided by the Arduino platform, you will likely want to take advantage of the open source community's contributions. This most frequently is encountered by wanting to use a specific electronic component and its accompanying code library to make it easier to use.
 
-As an example, here you will work with programmable RGB LEDs - lights whose colour can be controlled individually via a single data connection. The specific LED is the WS2812 also known as NeoPixels, which is the name given to them by the company AdaFruit. The specific LED can be found in products that are not only produced by Adafruit, such as the Zip Stick by Kitronik, but the set of NeoPixel Arduino Libraries written by Adafruit can often be used with non-Adafruit products.
+As an example, here you will work with programmable RGB LEDs - lights whose colour can be controlled individually via a single data connection. The specific LED is the WS2812 also known as NeoPixels, which is the name given to them by the company AdaFruit. The specific LED can be found in products that are not only produced by Adafruit, such as the [Zip Stick by Kitronik](https://kitronik.co.uk/products/35129-zip-strip), but the set of NeoPixel Arduino Libraries written by Adafruit can often be used with non-Adafruit products.
 
-In this lesson you will install the Adafruit NeoPixel Libraries and use them to control a Kitronik Zip Stick using an Arduino board.
+In this lesson you will install the Adafruit NeoPixel Libraries and use them to control a [Kitronik Zip Stick](https://kitronik.co.uk/products/35129-zip-strip) using an Arduino Nano Every board.
+
+![Kitronik Zip Stick with 5 LEDs](https://kitronik.co.uk/cdn/shop/products/35129_large-kitronik-zip-stick-leds-front_e7ca50db-bc14-4677-9e2d-e8460551b5a7_800x.jpg?v=1582131382)
 
 Once again the pin diagram is provided here for easy reference.
 
